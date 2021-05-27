@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Zubair. I'm a software engineer   
-GIF
-
+I'm Zubair. I'm a software engineer with a background in economics, finance and medicine. I'm a life long learner looking forward to growing my technical experience in software engineering. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and machine learning. 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
