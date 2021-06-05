@@ -4,7 +4,6 @@
   
 <p align=center>I'm currently working on learning more Python, statistics and implementing projects involving AI.</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair&langs_count=5&theme=dracula&layout=compact" />]
 
 
 
@@ -23,4 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Non functional <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-akbar&langs_count=5&theme=dracula&layout=compact" />]
+
 -->
