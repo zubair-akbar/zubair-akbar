@@ -1,10 +1,14 @@
-### Hi there 👋
+### <h1 align=center>Hi there 👋</h1>
 
-I'm Zubair. I'm a software engineer with a background in economics, finance and medicine. I'm a life long learner looking forward to growing my technical experience in software engineering. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and machine learning. 
+<p align=center>I'm Zubair. I'm a software engineer with a background in economics, finance and medicine. I'm a life long learner looking forward to developing my technical expertise in software engineering. I love to explore new technologies and leverage them to solve real-world problems ✨.
+  
+<p align=center>I'm currently working on learning more Python, statistics and implementing projects involving AI.</p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair&langs_count=5&theme=dracula&layout=compact" />]
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zubair-akbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+<p align=center><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zubair-akbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" /></p>
 
 <!--
 **zubair-akbar/zubair-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
