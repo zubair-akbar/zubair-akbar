@@ -2,8 +2,24 @@
 
 <p align=center>I'm a software engineer with a background in economics, finance and medicine. I'm a life long learner looking forward to developing my technical expertise in software engineering. I love to explore new technologies and leverage them to solve real-world problems ✨.
   
-<p align=center>I'm currently working on learning more Python, statistics and implementing projects involving AI.</p>
+<p align=center>I'm currently working on learning more Python, statistics and implementing projects involving AI.
+<br />
+<br />Feel free to reach out through LinkedIn or Gmail 
+</p>
 
+<p 
+  align=center
+    <a href="https://www.linkedin.com/in/zubair-akbar-engineer/">
+      <img
+        alt="Linkedin"
+        src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
+        />
+    </a>
+    <a href="mailto:zbarakzai@gmail.com" target="blank">
+      <img 
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:zbarakzai@gmail.com" />
+    </a> 
+</p>
 
 <p
    align=center>
@@ -12,22 +28,13 @@
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
     <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
     <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+   
 </p>
 
-
-<p
-   align=center>
-    <a href="https://www.linkedin.com/in/zubair-akbar-engineer/">
-      <img
-        alt="Linkedin"
-        src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-      />
-    </a>
-   <a href="#">
-      <img 
-       src="https://shields-io-visitor-counter.herokuapp.com/badge?page=zubair-akbar.zubair-akbar&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge">
-   </a>
-</p>
 
 <p 
    align=center>
@@ -41,6 +48,13 @@
     />
 </p>
 
+<p
+   align=center>
+   <a href="#">
+      <img 
+       src="https://shields-io-visitor-counter.herokuapp.com/badge?page=zubair-akbar.zubair-akbar&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge">
+   </a>
+</p>
   
   <!--
 **zubair-akbar/zubair-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
