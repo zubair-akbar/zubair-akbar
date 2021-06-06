@@ -6,13 +6,13 @@
 <br />
 <br />Feel free to reach out through LinkedIn or Gmail 
 </p>
-
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 <p 
   align=center
-    <a href="https://www.linkedin.com/in/zubair-akbar-engineer/">
+    <a href="https://www.linkedin.com/in/zubair-akbar-engineer/" target="blank">
       <img
         alt="Linkedin"
-        src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" 
+        src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&url=https://www.linkedin.com/in/zubair-akbar-engineer&logoColor=white&style=for-the-badge" 
         />
     </a>
     <a href="mailto:zbarakzai@gmail.com" target="blank">
