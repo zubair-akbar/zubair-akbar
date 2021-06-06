@@ -6,9 +6,9 @@
 <br />
 <br />Feel free to reach out through LinkedIn or Gmail 
 </p>
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
+
 <p 
-  align=center
+  align=center>
     <a href="https://www.linkedin.com/in/zubair-akbar-engineer/" target="blank">
       <img
         alt="Linkedin"
