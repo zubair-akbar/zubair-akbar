@@ -38,13 +38,13 @@
 
 <p 
    align=center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zubair-akbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" 
+    <img height="180em" src="https://github-readme-stats-zubair-akbar.vercel.app/api?username=zubair-akbar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" 
     />
 </p>
 
 <p 
    align=center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-akbar&layout=compact&theme=dracula&langs_count=5"
+    <img height="180em" src="https://github-readme-stats-zubair-akbar.vercel.app/api/top-langs/?username=zubair-akbar&layout=compact&theme=dracula&langs_count=5"
     />
 </p>
 
