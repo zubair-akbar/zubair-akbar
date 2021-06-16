@@ -44,7 +44,7 @@
 
 <p 
    align=center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-akbar&layout=compact&theme=dracula"
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubair-akbar&layout=compact&theme=dracula&langs_count=5"
     />
 </p>
 
