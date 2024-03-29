@@ -1,8 +1,9 @@
 ### <h1 align=center>Thanks for visiting, I'm Zubair 👋</h1>
 
-<p align=center>I'm a software engineer with a background as an investment bank trader and US Army medic.
+<p align=center>I'm a software engineer with a background as an investment bank trader and US Army medic.</p>
   
-<br />Feel free to reach out through LinkedIn or Gmail 
+<br />
+<p align=center>Feel free to reach out through LinkedIn or Gmail 
 </p>
 
 <p 
