@@ -2,9 +2,7 @@
 
 <p align=center>I'm a software engineer with a background as an investment bank trader and US Army medic.</p>
   
-<br />
-<p align=center>Feel free to reach out through LinkedIn or Gmail 
-</p>
+<p align=center>Feel free to reach out through LinkedIn or Gmail</p>
 
 <p 
   align=center>
