@@ -1,9 +1,7 @@
 ### <h1 align=center>Thanks for visiting, I'm Zubair 👋</h1>
 
-<p align=center>I'm a software engineer with a background as an investment bank trader and US Army medic. I'm a life long learner looking forward to developing my technical expertise in software engineering. I love to explore new technologies and leverage them to solve real-world problems ✨.
+<p align=center>I'm a software engineer with a background as an investment bank trader and US Army medic.
   
-<p align=center>I'm currently working on learning more Python, statistics and implementing projects involving AI.
-<br />
 <br />Feel free to reach out through LinkedIn or Gmail 
 </p>
 
