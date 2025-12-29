@@ -45,13 +45,6 @@
     />
 </p>
 
-<p
-   align=center>
-   <a href="#">
-      <img 
-       src="https://shields-io-visitor-counter.herokuapp.com/badge?page=zubair-akbar.zubair-akbar&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge">
-   </a>
-</p>
   
   <!--
 **zubair-akbar/zubair-akbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
